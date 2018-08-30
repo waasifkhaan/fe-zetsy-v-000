@@ -21,5 +21,5 @@ body {
 
 @font-face {
   font-family: "Baskerville"
-  src="../fonts/Baskerville.ttc"
+  src: URL"../fonts/Baskerville.ttc"
 }

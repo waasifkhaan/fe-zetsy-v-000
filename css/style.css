@@ -16,7 +16,11 @@ body {
 	background: #fff;
 	padding: 0 45px 20px;
 }
-
+h1 {
+  padding-bottom: 10px;
+  
+}
+}
 
 /* Write all remaining styles here */
 
